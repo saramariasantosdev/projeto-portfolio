@@ -7,3 +7,6 @@ Este é o projeto final do curso inicial de HTML e CSS que eu fiz na Alura. Com 
 ## Confira o resultado 😊 
 https://saramariasantosdev.github.io/projeto-portfolio/
 
+## Licença
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
